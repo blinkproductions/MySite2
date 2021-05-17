@@ -1659,6 +1659,18 @@ input, select, textarea {
 
 
 
+		hr {
+		  /* border-color: lightgrey;
+		  border-style: none;
+		  border-top-style: dotted;
+		  border-width: 5px;
+		  width: 5%; */
+		  border: dotted lightgrey 6px;
+		  border-bottom: none;
+		  clear: both;
+		  width: 4%;
+		  margin: 100px auto;
+		}
 
 
 
