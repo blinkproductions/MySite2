@@ -1150,7 +1150,7 @@ input, select, textarea {
 			background-position: center, center;
 			background-repeat: no-repeat, repeat;
 			z-index: 2;
-			transform: translate(29px,0px);
+			transform: translate(27px,0px);
 		}
 
 		#bg:after {
